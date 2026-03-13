@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "1944")(type "KiCad")(uri "${KIPRJMOD}/Components/1944")(options "")(descr ""))
+  (lib (name "AMS1117-3.3")(type "KiCad")(uri "${KIPRJMOD}/Components/AMS1117-3.3")(options "")(descr ""))
+  (lib (name "LIB_865060343005(100uf_Capacisor)")(type "KiCad")(uri "${KIPRJMOD}/Components/LIB_865060343005(100uf_Capacisor)")(options "")(descr ""))
+  (lib (name "MCP6004-E_ST")(type "KiCad")(uri "${KIPRJMOD}/Components/MCP6004-E_ST")(options "")(descr ""))
+)
